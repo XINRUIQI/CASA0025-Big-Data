@@ -1,5 +1,3 @@
-# CASA0025-Big-Data
-
 This repository contains materials for the CASA0025 Big Data course.
 
 ## Contents
